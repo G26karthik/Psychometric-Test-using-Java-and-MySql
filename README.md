@@ -23,8 +23,7 @@ This project is a **Psychometric Test Application** developed in Java, designed 
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/G26karthik/OOPS-Java-PBL.git
-   cd OOPS-Java-PBL
+   git clone https://github.com/G26karthik/Psychometric-Test-using-Java-and-MySql
    ```
 
 2. **Navigate to the Project Directory**:
